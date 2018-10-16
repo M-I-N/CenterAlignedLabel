@@ -42,7 +42,7 @@
                                 </constraints>
                             </stackView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" horizontalCompressionResistancePriority="748" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yz6-EI-EAd">
-                                <rect key="frame" x="80" y="50" width="285" height="191"/>
+                                <rect key="frame" x="80" y="47" width="285" height="191"/>
                                 <string key="text">The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <nil key="textColor"/>
@@ -53,7 +53,7 @@
                         <constraints>
                             <constraint firstItem="SJ4-AN-XW0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="9My-S6-BrW"/>
                             <constraint firstItem="SJ4-AN-XW0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="10" id="AF7-ol-lYd"/>
-                            <constraint firstItem="yz6-EI-EAd" firstAttribute="top" secondItem="3AX-dF-zk6" secondAttribute="top" constant="-10" id="Kmh-A3-PXx"/>
+                            <constraint firstItem="yz6-EI-EAd" firstAttribute="top" secondItem="3AX-dF-zk6" secondAttribute="top" constant="-13" id="Kmh-A3-PXx"/>
                             <constraint firstItem="yz6-EI-EAd" firstAttribute="leading" secondItem="3AX-dF-zk6" secondAttribute="leading" id="NfT-fX-KJb"/>
                             <constraint firstItem="yz6-EI-EAd" firstAttribute="trailing" secondItem="3AX-dF-zk6" secondAttribute="trailing" id="SL4-YJ-Tt1"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="SJ4-AN-XW0" secondAttribute="trailing" constant="10" id="ec6-CV-is5"/>
